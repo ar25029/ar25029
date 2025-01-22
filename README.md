@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there! I’m an IT Professional with a passion for technology and innovation. With 1 year of experience in the field, I’ve been working on creating efficient, scalable, and user-friendly solutions using cutting-edge tools and technologies.
 
-<!--
-**ar25029/ar25029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ About Me
 
-Here are some ideas to get you started:
+🔧 Role: IT Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏳ Experience: 1 Year
+
+✍️ Skillset:
+
+Frontend Development: React.js, HTML5, CSS3
+
+Backend Development: Node.js, Java, .NET
+
+API Testing & Management: Postman
+
+Programming Languages: JavaScript, Java
+
+🌐 Goal: To leverage my technical expertise to solve real-world problems and deliver impactful software solutions.
