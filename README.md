@@ -1,19 +1,41 @@
-Hi there! I’m an IT Professional with a passion for technology and innovation. With 1 year of experience in the field, I’ve been working on creating efficient, scalable, and user-friendly solutions using cutting-edge tools and technologies.
+# 👨‍💻 IT Developer | Passionate about Technology, Code, and Scalable Solutions
+Welcome to my GitHub! I’m an IT Professional with a passion for technology and innovation. With 1+ years of experience in ReactJS, I specialize in full-stack development, applying modern frameworks and best practices to deliver efficient, maintainable, and user-focused applications.
 
-✨ About Me
+## 🔧 Current Role: Associate Software Engineer (React Developer)
+Delivering robust and performant software systems with clean architecture and modern engineering practices.
 
-🔧 Role: IT Developer
+---
 
-⏳ Experience: 1 Year
+### Frontend Development
+- React.js  
+- HTML5  
+- CSS3  
+- JavaScript
+- Tailwind CSS
+- BootStrap
+- Chakra UI
 
-✍️ Skillset:
+### Backend Development
+- Java  
+- C#  
+- Spring Boot  
+- .NET
 
-Frontend Development: React.js, HTML5, CSS3
+### Programming Concepts
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms (Basics)
 
-Backend Development: Node.js, Java, .NET
+### API Development & Testing
+- RESTful API Design  
+- Postman
 
-API Testing & Management: Postman
+### Programming Languages
+- JavaScript  
+- Java  
+- C#
 
-Programming Languages: JavaScript, Java
+---
 
-🌐 Goal: To leverage my technical expertise to solve real-world problems and deliver impactful software solutions.
+## 🎯 Career Objective  
+
+To leverage my technical expertise and problem-solving mindset to build software solutions that address real-world challenges. I aim to continuously grow as a developer while contributing to meaningful, high-impact projects.
