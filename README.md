@@ -6,6 +6,7 @@ Delivering robust and performant software systems with clean architecture and mo
 
 ---
 
+## 🛠️ Technical Skillset 
 ### Frontend Development
 - React.js  
 - HTML5  
